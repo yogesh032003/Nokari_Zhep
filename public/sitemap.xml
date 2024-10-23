@@ -30,14 +30,14 @@
 
  
   <url>
-    <loc>https://yourjobportal.com/post-job</loc>
+    <loc>https://nokari-zhep.vercel.app/post-job</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
 
   
   <url>
-    <loc>https://yourjobportal.com/my-jobs</loc>
+    <loc>https://nokari-zhep.vercel.app/my-jobs</loc>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
