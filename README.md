@@ -2,7 +2,7 @@
 
 **Nokari_Zhep** is a modern and user-friendly job portal web app built using **React + Tailwind CSS + Supabase**. It allows job seekers and recruiters to connect seamlessly, helping users find jobs or post opportunities with ease.
 
-🔗 **Live Demo:** [https://job-portal-psi-red.vercel.app](https://nokari-zhep.vercel.app/)
+🔗 **Live Demo:** [https://nokari-zhep.vercel.app](https://nokari-zhep.vercel.app/)
 
 
 
