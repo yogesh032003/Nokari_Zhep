@@ -1,7 +1,9 @@
 # 🚀 Nokari_Zhep | Online Job Portal Platform
 
 **Nokari_Zhep** is a modern and user-friendly job portal web app built using **React + Tailwind CSS + Supabase**. It allows job seekers and recruiters to connect seamlessly, helping users find jobs or post opportunities with ease.
+![App Screenshot](./Screenshot.png)
 
+![App Screenshot](./Screenshot1.png)
 🔗 **Live Demo:** [https://nokari-zhep.vercel.app](https://nokari-zhep.vercel.app/)
 
 
@@ -17,7 +19,24 @@
 
 
 
+## 🚀 Features
+
+- Separate roles: **Recruiter** (post jobs, manage applications) & **Job Seeker** (browse jobs, apply, manage profile)  
+- User authentication & role-based access  
+- Job posting, editing and deletion by recruiters  
+- Searching, filtering and applying for jobs by job seekers  
+- Application management: recruiters can shortlist, reject or accept applicants  
+- Profile management (upload resumes, update details)  
+- Responsive UI for modern devices  
+
+
 ## 🧑‍💻 Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or newer recommended)  
+- npm or yarn  
+- Supabase database 
 
 To run this project locally:
 
@@ -27,16 +46,3 @@ To run this project locally:
    cd Nokari_Zhep
    npm install
    npm run dev
-
-## ✨ Features
-
-Here are the main features of the **Nokari_Zhep** job portal:
-
-- 🔍 **Search Jobs** – Users can browse and filter job listings by title, location, or category.
-- 📝 **Post Jobs** – Recruiters can post new job openings with full job descriptions and requirements.
-- 👨‍💼 **Job Details Page** – Each job listing has a dedicated page with all relevant info like responsibilities, skills, and location.
-- 📱 **Responsive UI** – Optimized layout for mobile, tablet, and desktop devices using Tailwind CSS.
-- ⚡ **Fast Performance** – Built with Vite for lightning-fast loading and development experience.
-- 💡 **Component-Based Architecture** – Reusable components for scalability and maintainability.
-- 🚀 **Deployed on Vercel** – Easy access with a live link; no need to run locally unless you’re developing.
-- 🎯 **Modern UI Design** – Clean, minimal, and user-friendly interface to enhance the user experience.
